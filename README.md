@@ -119,7 +119,7 @@ Total printed parts to assemble **one half**:
 ---
 #### Top
 
-Print **one** `Top.stl`.
+* Print **one** `Top.stl`.
 
 * Place `Top` on top of a PCB, closing the case. ![](./images/case_with_top.jpg)
 * Screw the case using `four M3 screws` and `four M3 nuts`. I suggest to put `M3 nuts` in a `Top` holes.
@@ -129,8 +129,8 @@ Now you can finish the keyboard by adding `Switches` and `Keycaps`.
 ---
 #### Tenting
 
-Print **two** `Tent_leg.stl`: one - as is, another - optionally mirrored.
-Print **two** `Tent_knob.stl`.
+* Print **two** `Tent_leg.stl`: one - as is, another - optionally mirrored.
+* Print **two** `Tent_knob.stl`.
 
 ![](./images/tenting_kit.jpg)
 
@@ -141,7 +141,7 @@ Print **two** `Tent_knob.stl`.
 ---
 #### Wrist Rest
 
-Print **one** `Wristrest.stl`. See the picture below for a suggested slicing. Tree support is **highly recommended** - with `Normal Support` it is almost impossible to clean a nut slot.
+* Print **one** `Wristrest.stl`. See the picture below for a suggested slicing. Tree support is **highly recommended** - with `Normal Support` it is almost impossible to clean a nut slot.
 ![](./images/wristrest_slicer.jpg)
 
 * Put `one M3 Nut` in a nut slot.
