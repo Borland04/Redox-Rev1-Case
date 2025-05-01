@@ -1,3 +1,4 @@
+
 # Case for a Wireless Redox Rev1 Keyboard
 
 Case for a [Redox keyboard](https://github.com/mattdibi/redox-keyboard/tree/master/redox) with Wristrest and Tenting, built from scratch but inspired by [Original Mattdibi Case](https://github.com/mattdibi/redox-keyboard/tree/master/redox/case), [Neodox Case](https://github.com/Pastitas/Redox-neo-Case) and [Ergodox Keyboard](https://ergodox-ez.com/).
@@ -5,6 +6,19 @@ Case for a [Redox keyboard](https://github.com/mattdibi/redox-keyboard/tree/mast
 This case is built for a **Wireless** Rev1 with use of [Nice!Nano V2](https://nicekeyboards.com/nice-nano/) MCU (Or its alternatives. In my case - [ProMicro NRF52840](https://www.elecrow.com/pro-micro-nrf52840-development-board-compatible-with-nice-nano-v2-0.html)).
 
 **TL;DR:** [Assembly Guide](#assembly)
+
+## Table of Contents
+* [Bill of Materials](#bill-of-materials)
+* [PCB Prerequisites](#pcb-prerequisites)
+  * [Differences & Requirements](#differences--requirements)
+* [Assembly](#assembly)
+  * [Bottom](#bottom)
+  * [Top](#top)
+  * [Tenting](#tenting)
+  * [Wrist Rest](#wrist-rest)
+  * [Final Touches](#final-touches)
+* [Contributions](#contributions)
+* [To Be Done](#to-be-done)
 
 ---
 
