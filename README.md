@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/147100b6-4d9d-4429-9eef-d57127e4a1c8)
 # Case for a Wireless Redox Rev1 Keyboard
 
 Case for a [Redox keyboard](https://github.com/mattdibi/redox-keyboard/tree/master/redox) with Wristrest and Tenting, built from scratch but inspired by [Original Mattdibi Case](https://github.com/mattdibi/redox-keyboard/tree/master/redox/case), [Neodox Case](https://github.com/Pastitas/Redox-neo-Case) and [Ergodox Keyboard](https://ergodox-ez.com/).
