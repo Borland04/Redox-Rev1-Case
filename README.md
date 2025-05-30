@@ -162,6 +162,7 @@ I tried to introduce some parameters in model, but there is a big chance they ar
 ## To Be Done
 
 * Test and fix the model parameters - IDK if changing current parameters won't break whole model;
+* Less thickness between M3 screw & nut, which are fixing top & bottom parts (-1mm - -2mm)
 * Check the possibility to use M3 instead of M2 for a Power Switch;
 * Make case thinner: move battery into the wristrest + check how to make a thinner hot-swappable MCU. Approx. thickness reduction: 2.5-3mm;
 * <?> Adapt model to a **Wired** Redox.
