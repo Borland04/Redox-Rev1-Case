@@ -26,6 +26,8 @@ This case is built for a **Wireless** Rev1 with use of [Nice!Nano V2](https://ni
 ![](./images/final_3.jpg)
 ![](./images/final_4.jpg)
 ![](./images/final_5.jpg)
+> [!WARNING]
+> +2mm if using `bottom_8mm` (which is preferred, because of right half's USB position. See [Assembly Guide](#assembly) for more info)
 
 ---
 ## Bill of Materials
